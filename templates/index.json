@@ -85,7 +85,7 @@
         "custom_liquid_9wDUPc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ 18k Gold-Plated & Waterproof</span> – Keeps its shine and color even with daily wear.<br><br>\n\n<span style=\"font-weight: bold;\">💎 Premium Quality</span> – Made with durable, lasting materials.<br><br>\n\n<span style=\"font-weight: bold;\">🌸 Customizable</span> – Add charms that tell your story.<br><br>\n\n<span style=\"font-weight: bold;\">🌍 Trendy Style</span> – Matches any outfit, casual or chic.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
           }
         },
         "variant_picker_txHV9a": {
@@ -120,7 +120,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "necklace",
+        "product": "markiti-wireless-hair-straightener-brush",
         "layout": "media_first",
         "full_width": false,
         "show_divider": false,
