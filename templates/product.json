@@ -519,7 +519,7 @@
             "icon": "truck",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "DELIVERY IN ALL  LEBANON",
+            "title": "DELIVERY ALL OVER LEBANON",
             "title_size": "h3",
             "text": ""
           }
@@ -534,11 +534,35 @@
             "title_size": "h3",
             "text": ""
           }
+        },
+        "guarantee_r6baBr": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "SATISFACTION GUARANTEED",
+            "title_size": "h3",
+            "text": "<p>Welcome to our store.</p>"
+          }
+        },
+        "guarantee_d3jRGm": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "price_tag",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "CASH ON DELIVERY",
+            "title_size": "h3",
+            "text": "<p>Welcome to our store.</p>"
+          }
         }
       },
       "block_order": [
         "guarantee_C9FjyP",
-        "guarantee_hU6LiX"
+        "guarantee_hU6LiX",
+        "guarantee_r6baBr",
+        "guarantee_d3jRGm"
       ],
       "name": "t:sections.guarantees.presets.name",
       "settings": {
