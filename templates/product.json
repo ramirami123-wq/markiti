@@ -106,6 +106,9 @@
         "sticky_cart",
         "collapsible_description_mFEEde"
       ],
+      "custom_css": [
+        ".product-form__submit{animation: shopifyshake 4s; animation-iteration-count: infinite;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_position": "left",
@@ -206,7 +209,99 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/51p01UBGBFL._AC_SY300_SX300_QL70_ML2__-_Markiti.jpg",
+        "image": "shopify://shop_images/1769630086_phpnbmq6lmcp79qf2p0fhx.webp",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_6Xj9FQ": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_QJYrYr": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "FREE DELIVERY FOR ORDERS ABOVE 45$",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_QJYrYr"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#000000",
+        "colors_background": "#189ddd",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_BnjUnJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_eTDxyc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_iNcMJf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_WaBY6b": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eTDxyc",
+        "text_iNcMJf",
+        "button_WaBY6b"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -220,7 +315,6 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
-        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -275,23 +369,23 @@
       ],
       "settings": {}
     },
-    "scrolling_promotion_6Xj9FQ": {
+    "scrolling_promotion_Cb7gQx": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_QJYrYr": {
+        "announcement_kHrMKE": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "FREE DELIVERY FOR ORDERS ABOVE 45$",
+            "text": "DELIVERY ALL OVER LEBANON",
             "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_QJYrYr"
+        "announcement_kHrMKE"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
@@ -472,8 +566,10 @@
     "product-recommendations",
     "scrolling_promotion_kXwVN7",
     "image_with_text_77JWBq",
-    "1771851225f27f01d7",
     "scrolling_promotion_6Xj9FQ",
+    "image_with_text_BnjUnJ",
+    "1771851225f27f01d7",
+    "scrolling_promotion_Cb7gQx",
     "17718508649b1c6768",
     "faq_YDJ73w",
     "testimonials_VgPcBk",
