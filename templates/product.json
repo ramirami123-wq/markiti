@@ -196,7 +196,7 @@
         "heading_76UTPd": {
           "type": "heading",
           "settings": {
-            "heading": "Cordless Brush vs. Flat Iron",
+            "heading": "Markiti Brush vs. Flat Iron",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -279,7 +279,7 @@
         "heading_eTDxyc": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Markiti Brush Advantage",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -287,28 +287,19 @@
         "text_iNcMJf": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Faster, safer, and easier than a flat iron — smooth hair anytime, anywhere</p>",
             "text_size": "typeset2",
             "secondary_color": false
-          }
-        },
-        "button_WaBY6b": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_eTDxyc",
-        "text_iNcMJf",
-        "button_WaBY6b"
+        "text_iNcMJf"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1769630086_php0kfq57jf5e0b6LUNeHg.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -322,6 +313,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
