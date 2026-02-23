@@ -144,6 +144,88 @@
         "padding_bottom": 36
       }
     },
+    "scrolling_promotion_kXwVN7": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_WLYCpm": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "FREE DELIVERY FOR ORDERS ABOVE 45$",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_WLYCpm"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#000000",
+        "colors_background": "#189ddd",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_77JWBq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_76UTPd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cordless Brush vs. Flat Iron",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_x39RiF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>✓ Straightens hair in less time<br/><br/>✓ Easy and beginner-friendly<br/><br/>✓ Anti-scald, safe design<br/><br/>✓ Perfect for quick styling anywhere<br/><br/></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_76UTPd",
+        "text_x39RiF"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/51p01UBGBFL._AC_SY300_SX300_QL70_ML2__-_Markiti.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1771851225f27f01d7": {
       "type": "_blocks",
       "blocks": {
@@ -223,94 +305,6 @@
     "17718508649b1c6768": {
       "type": "_blocks",
       "settings": {}
-    },
-    "guarantees_Yj7NaV": {
-      "type": "guarantees",
-      "blocks": {
-        "guarantee_C9FjyP": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "truck",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "DELIVERY IN ALL  LEBANON",
-            "title_size": "h3",
-            "text": ""
-          }
-        },
-        "guarantee_hU6LiX": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "phone",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "24/7 SUPPORT",
-            "title_size": "h3",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "guarantee_C9FjyP",
-        "guarantee_hU6LiX"
-      ],
-      "name": "t:sections.guarantees.presets.name",
-      "settings": {
-        "layout": "default",
-        "column_alignment": "left",
-        "horizontal_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "columns_desktop": 4,
-        "heading": "Guarantees",
-        "heading_size": "h1",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "use_custom_colors": false,
-        "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1771850465e38b72c3": {
-      "type": "_blocks",
-      "settings": {}
-    },
-    "scrolling_promotion_kXwVN7": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_WLYCpm": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "FREE DELIVERY FOR ORDERS ABOVE 45$",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_WLYCpm"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#000000",
-        "colors_background": "#189ddd",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
     },
     "faq_YDJ73w": {
       "type": "faq",
@@ -409,19 +403,76 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "guarantees_Yj7NaV": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_C9FjyP": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "DELIVERY IN ALL  LEBANON",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_hU6LiX": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "phone",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "24/7 SUPPORT",
+            "title_size": "h3",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_C9FjyP",
+        "guarantee_hU6LiX"
+      ],
+      "name": "t:sections.guarantees.presets.name",
+      "settings": {
+        "layout": "default",
+        "column_alignment": "left",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1771850465e38b72c3": {
+      "type": "_blocks",
+      "settings": {}
     }
   },
   "order": [
     "empty-space",
     "main",
     "product-recommendations",
+    "scrolling_promotion_kXwVN7",
+    "image_with_text_77JWBq",
     "1771851225f27f01d7",
     "scrolling_promotion_6Xj9FQ",
     "17718508649b1c6768",
-    "guarantees_Yj7NaV",
-    "1771850465e38b72c3",
-    "scrolling_promotion_kXwVN7",
     "faq_YDJ73w",
-    "testimonials_VgPcBk"
+    "testimonials_VgPcBk",
+    "guarantees_Yj7NaV",
+    "1771850465e38b72c3"
   ]
 }
