@@ -64,10 +64,6 @@
             "size_chart": ""
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -88,6 +84,14 @@
           "settings": {
             "show_quantity_selector": false
           }
+        },
+        "collapsible_description_mFEEde": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "heart",
+            "heading": "Description",
+            "keep_open": false
+          }
         }
       },
       "block_order": [
@@ -97,10 +101,10 @@
         "price",
         "custom_liquid_H9DXEK",
         "variant_picker",
-        "description",
         "buy_buttons",
         "related_buttons",
-        "sticky_cart"
+        "sticky_cart",
+        "collapsible_description_mFEEde"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -216,6 +220,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
