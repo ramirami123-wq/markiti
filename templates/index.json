@@ -135,6 +135,38 @@
         "padding_bottom": 36
       }
     },
+    "scrolling_promotion_gqQrxK": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_V6HCmb": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "MARKITI",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_V6HCmb"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#189ddd",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "rich_text_iPTEGL": {
       "type": "rich-text",
       "blocks": {
@@ -177,38 +209,6 @@
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_gqQrxK": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_V6HCmb": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "MARKITI",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_V6HCmb"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#189ddd",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "scrolling_promotion_yJEgih": {
@@ -354,8 +354,8 @@
   "order": [
     "slideshow",
     "featured_product_RCYCaB",
-    "rich_text_iPTEGL",
     "scrolling_promotion_gqQrxK",
+    "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
     "faq_VkHiGm",
     "testimonials_RAYR9d"
