@@ -360,6 +360,14 @@
             "text": "<p>Love the temperature display — makes it easy to control the heat.</p>",
             "author": "Author"
           }
+        },
+        "testimonial_WKEpEP": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Doesn’t burn my scalp like a flat iron sometimes does. Much safer to use.</p>",
+            "author": ""
+          }
         }
       },
       "block_order": [
@@ -370,7 +378,8 @@
         "testimonial_hLfD6X",
         "testimonial_rcYE8C",
         "testimonial_BwmGc6",
-        "testimonial_ff9i4d"
+        "testimonial_ff9i4d",
+        "testimonial_WKEpEP"
       ],
       "name": "t:sections.testimonials.presets.name",
       "settings": {
