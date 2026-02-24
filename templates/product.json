@@ -512,6 +512,14 @@
             "text": "<p>Perfect for school mornings. I can straighten my hair in under 10 minutes.</p>",
             "author": ""
           }
+        },
+        "testimonial_KdVtJt": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My daughter uses it daily and her hair looks salon-smooth.</p>",
+            "author": ""
+          }
         }
       },
       "block_order": [
@@ -520,7 +528,8 @@
         "testimonial_ci6Dck",
         "testimonial_mhKdrU",
         "testimonial_dJ9pkK",
-        "testimonial_TCHgHH"
+        "testimonial_TCHgHH",
+        "testimonial_KdVtJt"
       ],
       "name": "t:sections.testimonials.presets.name",
       "settings": {
