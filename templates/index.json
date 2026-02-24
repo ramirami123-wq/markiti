@@ -352,6 +352,14 @@
             "text": "<p>Works okay on my wavy hair but struggles with thicker sections.</p>",
             "author": ""
           }
+        },
+        "testimonial_ff9i4d": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Love the temperature display — makes it easy to control the heat.</p>",
+            "author": "Author"
+          }
         }
       },
       "block_order": [
@@ -361,7 +369,8 @@
         "testimonial_afFAK4",
         "testimonial_hLfD6X",
         "testimonial_rcYE8C",
-        "testimonial_BwmGc6"
+        "testimonial_BwmGc6",
+        "testimonial_ff9i4d"
       ],
       "name": "t:sections.testimonials.presets.name",
       "settings": {
