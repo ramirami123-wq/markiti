@@ -328,13 +328,40 @@
             "text": "<p><strong>“Quick fix tool”</strong><br/><br/>Not meant to replace a full salon straightener, but amazing for refreshing your hair during the day or before going out.<br/><br/></p>",
             "author": ""
           }
+        },
+        "testimonial_hLfD6X": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Lightweight and easy to hold. I wish the cord was a little longer though.</p>",
+            "author": "Author"
+          }
+        },
+        "testimonial_rcYE8C": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My hair looks shiny and less frizzy after using this. Totally worth it.</p>",
+            "author": ""
+          }
+        },
+        "testimonial_BwmGc6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Works okay on my wavy hair but struggles with thicker sections.</p>",
+            "author": ""
+          }
         }
       },
       "block_order": [
         "testimonial_9JpcWx",
         "testimonial_d4hHY3",
         "testimonial_tDhrLc",
-        "testimonial_afFAK4"
+        "testimonial_afFAK4",
+        "testimonial_hLfD6X",
+        "testimonial_rcYE8C",
+        "testimonial_BwmGc6"
       ],
       "name": "t:sections.testimonials.presets.name",
       "settings": {

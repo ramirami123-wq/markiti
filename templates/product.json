@@ -488,12 +488,39 @@
             "text": "<p>Compact, lightweight, and powerful enough to tame frizz anywhere. I took it on vacation and didn’t need to pack my bulky straightener.</p>",
             "author": ""
           }
+        },
+        "testimonial_mhKdrU": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Heats up fast and makes my hair smooth in minutes. Way easier than using a flat iron!</p>",
+            "author": ""
+          }
+        },
+        "testimonial_dJ9pkK": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Great for everyday use. Doesn’t get my hair pin-straight, but it looks neat and natural.</p>",
+            "author": ""
+          }
+        },
+        "testimonial_TCHgHH": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Perfect for school mornings. I can straighten my hair in under 10 minutes.</p>",
+            "author": ""
+          }
         }
       },
       "block_order": [
         "testimonial_w6GP9F",
         "testimonial_zXnxQg",
-        "testimonial_ci6Dck"
+        "testimonial_ci6Dck",
+        "testimonial_mhKdrU",
+        "testimonial_dJ9pkK",
+        "testimonial_TCHgHH"
       ],
       "name": "t:sections.testimonials.presets.name",
       "settings": {
