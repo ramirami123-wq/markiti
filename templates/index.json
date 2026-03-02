@@ -167,6 +167,133 @@
         "padding_bottom": 20
       }
     },
+    "featured_product_TQxcrA": {
+      "type": "featured-product",
+      "blocks": {
+        "title_TPfXHU": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "title_tag": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "rating_eRTqfp": {
+          "type": "rating",
+          "settings": {}
+        },
+        "countdown_Jw4a7a": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#feeeee"
+          }
+        },
+        "price_7iDjFq": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "variant_picker_jhD8Dy": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
+        "buy_buttons_H479Ni": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "share_xFNeT8": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "read_more_DFCmgJ": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "title_TPfXHU",
+        "rating_eRTqfp",
+        "countdown_Jw4a7a",
+        "price_7iDjFq",
+        "variant_picker_jhD8Dy",
+        "buy_buttons_H479Ni",
+        "share_xFNeT8",
+        "read_more_DFCmgJ"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "dead-skin-remover",
+        "layout": "media_first",
+        "full_width": false,
+        "show_divider": false,
+        "show_featured_media": false,
+        "hide_variants": false,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "image_ratio": "adapt_first",
+        "image_position": "center center",
+        "enable_layered_images": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_PMbHjR": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_n9NGw3": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "MARKITI",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_n9NGw3"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#189ddd",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "rich_text_iPTEGL": {
       "type": "rich-text",
       "blocks": {
@@ -181,7 +308,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe great hair should be effortless — anytime, anywhere. Our mission is to create innovative, high-quality styling tools that fit modern, on-the-go lifestyles. We combine advanced technology, sleek design, and reliable performance to help you look and feel your best without the hassle of cords or complicated routines.</p><p>Focused on convenience, portability, and salon-quality results, our products are designed for busy mornings, travel days, and everything in between. With Couture Hair Pro, smooth, beautiful hair is always within reach.</p>",
+            "text": "<p><br/>we believe self-care should be simple, effective, and accessible to everyone. Our mission is to bring salon-quality beauty and personal care products into your home — making everyday routines easier, faster, and more enjoyable.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -249,29 +376,29 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "How long does the battery last",
-            "text": "<p>The built-in 9600mAh battery provides multiple styling sessions on a full charge, depending on the heat setting and hair type</p>"
+            "title": "Is the Extra Coarse Roller safe to use?",
+            "text": "<p><br/>Yes, it is designed for hard, thick skin areas. We recommend using gentle pressure and following instructions for best results.<br/><br/></p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "How long does it take to heat up?",
-            "text": "<p>The brush heats up quickly in just a few minutes, so you can start styling almost immediately.</p>"
+            "title": "How can I contact customer support?",
+            "text": "<p>You can reach us anytime through our Contact Us page or by email. We’re happy to help!</p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Can it be used on all hair types?",
+            "title": "7. Can I use the hair brush on all hair types?",
             "text": "<p>Yes! It features multiple heat settings suitable for fine, thick, curly, and color-treated hair</p>"
           }
         },
         "question_8XRAQn": {
           "type": "question",
           "settings": {
-            "title": "Will it damage my hair?",
-            "text": "<p>The ceramic heating technology distributes heat evenly to help reduce frizz, pulling, and breakage when used correctly.</p>"
+            "title": "Will the product damage me?”",
+            "text": "<p>No, the product will not damage you when used correctly.</p>"
           }
         }
       },
@@ -351,6 +478,8 @@
     "slideshow",
     "featured_product_RCYCaB",
     "scrolling_promotion_gqQrxK",
+    "featured_product_TQxcrA",
+    "scrolling_promotion_PMbHjR",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
     "faq_VkHiGm",
