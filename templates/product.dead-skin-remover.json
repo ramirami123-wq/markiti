@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">🦶 Extra Coarse Power</span> – Effectively removes thick, stubborn calluses and rough skin with ease.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast & Efficient Results</span> – Smooths hard skin quickly, saving time during your foot care routine.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Deep Exfoliation</span> – Strong abrasive surface targets dry, cracked heels for visibly softer skin.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Salon-Smooth Finish</span> – Leaves feet feeling refreshed, smooth, and revitalized after every use.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -203,7 +203,7 @@
         "heading_76UTPd": {
           "type": "heading",
           "settings": {
-            "heading": "Markiti Brush vs. Flat Iron",
+            "heading": "Deep Exfoliating Foot Roller",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -211,7 +211,7 @@
         "text_x39RiF": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>✓ Straightens hair in less time<br/><br/>✓ Easy and beginner-friendly<br/><br/>✓ Anti-scald, safe design<br/><br/>✓ Perfect for quick styling anywhere<br/><br/></p>",
+            "text": "<p><br/>✓ Removes thick, stubborn calluses effectively<br/><br/>✓ Quick and easy to use at home<br/><br/>✓ Strong exfoliation for rough, cracked heels<br/><br/>✓ Leaves feet smooth and soft after every use<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -223,7 +223,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/71aGFc-QTGL._AC_UF350_350_QL80.jpg",
+        "image": "shopify://shop_images/68309a18-77f4-461e-a146-7df9d9d0a711.69a7b3f71922922a18748b56bd364f0d.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -286,7 +286,7 @@
         "heading_eTDxyc": {
           "type": "heading",
           "settings": {
-            "heading": "Markiti Brush Advantage",
+            "heading": "Extra Coarse Callus Removal Roller",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -294,7 +294,7 @@
         "text_iNcMJf": {
           "type": "text",
           "settings": {
-            "text": "<p>Faster, safer, and easier than a flat iron — smooth hair anytime, anywhere</p>",
+            "text": "<p><br/>“Powerful exfoliation for beautifully smooth, soft feet.” ✨<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -306,7 +306,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/c6d71923-9709-4c1e-8d41-6d804a66614d.69fda2bea5b11375282b02610f1b193a.webp",
+        "image": "shopify://shop_images/a1cea5a5-fdfa-4f1c-924c-072a02df8f19.2aa3ef983447d7007a0f7e8bc998724a.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -340,16 +340,16 @@
             "header_col_1": "Feature",
             "header_col_2": "US",
             "header_col_3": "OTHERS",
-            "row_1_col_1": "Straightening Hair in Half Time",
+            "row_1_col_1": "Stronger Performance",
             "row_1_col_2": "✅",
             "row_1_col_3": "❌",
-            "row_2_col_1": "Ease of Use",
+            "row_2_col_1": "Long-Lasting Quality",
             "row_2_col_2": "✅",
             "row_2_col_3": "❌",
-            "row_3_col_1": "Anti-Scald Design",
+            "row_3_col_1": "Safe & Easy to Use",
             "row_3_col_2": "✅",
             "row_3_col_3": "❌",
-            "row_4_col_1": "Beginner Friendly",
+            "row_4_col_1": "Visible Results After One Use",
             "row_4_col_2": "✅",
             "row_4_col_3": "❌",
             "header_background": "#199cd7",
@@ -448,29 +448,29 @@
         "question_LwBBn4": {
           "type": "question",
           "settings": {
-            "title": "How long does the battery last?",
-            "text": "<p>The built-in 9600mAh battery provides multiple styling sessions on a full charge, depending on the heat setting and hair type.</p>"
+            "title": "What is the Extra Coarse Roller best for?",
+            "text": "<p>It’s specially designed to remove thick, stubborn calluses and very rough skin, especially on heels and soles.</p>"
           }
         },
         "question_mcJhGt": {
           "type": "question",
           "settings": {
-            "title": "How long does it take to heat up?",
-            "text": "<p>The brush heats up quickly in just a few minutes, so you can start styling almost immediately.</p>"
+            "title": "Is it safe for sensitive skin?",
+            "text": "<p>The extra coarse roller is best for hard skin areas. If you have sensitive skin, use gentle pressure and avoid soft areas.</p>"
           }
         },
         "question_GJeyJf": {
           "type": "question",
           "settings": {
-            "title": "Will it damage my hair?",
-            "text": "<p>The ceramic heating technology distributes heat evenly to help reduce frizz, pulling, and breakage when used correctly.</p>"
+            "title": "How often should I use it?",
+            "text": "<p>For best results, use once or twice a week depending on how thick the calluses are.<br/></p>"
           }
         },
         "question_gCFgAe": {
           "type": "question",
           "settings": {
-            "title": "Can it be used on all hair types?",
-            "text": "<p> Yes! It features multiple heat settings suitable for fine, thick, curly, and color-treated hair.</p>"
+            "title": "Will it hurt during use?",
+            "text": "<p>No, when used correctly on dry, hard skin, it should feel like firm exfoliation — not painful.<br/></p>"
           }
         }
       },
@@ -499,7 +499,7 @@
         "judge_me_reviews_review_widget_nUDBep": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "review_data": "sample_data",
+            "review_data": "real_data",
             "max_width": 1200,
             "show_shop_reviews": false,
             "empty_state": "empty_widget"
